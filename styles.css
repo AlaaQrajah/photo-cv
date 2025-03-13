@@ -1,6 +1,6 @@
 /* تعريف الألوان الرئيسية */
 :root {
-  --primary-color: #000000; /* أسود خالص */
+  --primary-color: #3b3a3a; /* أسود خالص */
   --secondary-color: #121212; /* أسود فاتح قليلاً */
   --accent-color: #00ff00; /* أخضر فسفوري */
   --text-color: #ffffff; /* أبيض */
